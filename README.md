@@ -1,4 +1,4 @@
-# hello-world
-my first repository
+# Hola mundo
+pureba de ramas en git
 
 Autor: AlanGomez
